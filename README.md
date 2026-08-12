@@ -3,8 +3,6 @@
 A Discord bot that imports a player's *Honkai: Star Rail* warp (gacha) history directly from
 HoyoverseTMs API and tracks pity, 50/50 status, and pull statistics per banner.
 
-Built for a private Discord server with 50+ active daily users.
-
 ## Features
 
 - **`/importwarp <url>`** — imports a player's full warp history from their in-game warp
